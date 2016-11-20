@@ -1,3 +1,3 @@
 #!/bin/sh
 
-npm run start
+echo "Hello, Start"

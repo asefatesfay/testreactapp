@@ -1,3 +1,3 @@
 #!/bin/sh
 
-npm run build
+echo "Hello build"
